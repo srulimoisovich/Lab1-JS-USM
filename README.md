@@ -12,7 +12,6 @@
     - Установите **Node.js** с официального сайта.
     > ![](/assets/screenshots/Screenshot_1.png)<br>
 
-    > [!NOTE]
     > Команды:<br>**code -v** проверяет наличие **VS Code** на машине;<br>**node -v** проверяет наличие **Node.js** на машине.
     - Откройте **DevTools** в браузере (нажмите ***F12*** и выберите вкладку Консоль).
     > ![](/assets/screenshots/Screenshot_2.png)
