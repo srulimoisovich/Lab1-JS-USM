@@ -22,7 +22,7 @@
     > ![](/assets/screenshots/Screenshot_3.png)
 3. Создание первой HTML-страницы с JavaScript
     - Создайте файл **index.html** и вставьте в него следующий код.
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -43,7 +43,7 @@
 
 4. Подключение внешнего JavaScript-файла
     - Создайте файл **script.js** и добавьте в него код:
-    ```
+    ```js
     alert("Этот код выполнен из внешнего файла!");
     console.log("Сообщение в консоли");
     ```
