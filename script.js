@@ -2,8 +2,8 @@ alert("Этот код выполнен из внешнего файла!");
 console.log("Сообщение в консоли");
 
 
-var userName = 'Max';
-var birthYear = 2005;
+var userName = 'Ivan';
+var birthYear = 2004;
 var isStudent = true;
 
 console.log(`Name: ${userName}\nYear of birth: ${birthYear}\nStudent: ${isStudent}`);
